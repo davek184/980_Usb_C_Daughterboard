@@ -6,6 +6,9 @@ _Note stock Leopold case requires filing USB opening and cable is tight._
 
 ![render](/assets/render.jpg)
 
+## Revision 1.3
+- Added Molex Pico-Ezmate connector option.  Note there are 2 of these one on the back that is optional.
+
 ## BOM
 
 | LCSC part # | Description   | Value | Package  | Amount |
@@ -16,7 +19,7 @@ _Note stock Leopold case requires filing USB opening and cable is tight._
 | C261942     | Fuse	      |       | SMD      | 1      |
 | C27834      | Resistor      | 5.1   | SMD      | 2      |
 | C7519       | ESD           |       | SMD      | 1      |
-
+| C528030     | Connector     |       | SMD      | 2      | 
 
 ## Cable
 
