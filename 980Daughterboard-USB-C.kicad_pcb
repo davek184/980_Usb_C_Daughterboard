@@ -716,7 +716,7 @@
       (net 1 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp f8c26207-4957-4b73-befa-5647f4899091))
     (pad "MP" smd roundrect locked (at -3 1.875) (size 1.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208) (tstamp 5f7cf2ce-0cb4-4c1b-9bd4-b1c027659f26))
     (pad "MP" smd roundrect locked (at 3 1.875) (size 1.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208) (tstamp 88b555f3-d09c-4e61-a68b-e8d7cdd57076))
-    (model "${KIPRJMOD}/footprints.pretty/SM04B-SRSS-TB LF SN.STEP"
+    (model "${KIPRJMOD}/footprints.pretty/SM04B-SRSS-TB.STEP"
       (offset (xyz 0 1.2 -0.3))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
