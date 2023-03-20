@@ -1,6 +1,10 @@
-Replacement USB-C daughterboard for FC980m/c can be used with the stock case or Norbauer Heavy-9.
+Replacement USB-C daughterboard for Leopold FC980c/FC980m, can be used with the stock case or Norbauer Heavy-9.
 
-_Note stock case requires filing USB opening and cable is tight._
+Uses Qwiic / JST SH or Pico-EZmate connector.
+
+_Note stock Leopold case requires filing USB opening and cable is tight._
+
+![render](/assets/render.jpg)
 
 ## BOM
 
