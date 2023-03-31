@@ -4,6 +4,8 @@ Uses Qwiic / JST SH or Pico-EZmate connector.
 
 _Note stock Leopold case requires filing USB opening and cable is tight._
 
+Related project [FC980c controller](https://github.com/davek184/fc980c-controller)
+
 ![render](/assets/render.jpg)
 
 ## Revision 1.3
